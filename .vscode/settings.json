@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\MinGW\\bin;${env:PATH}"
+    },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.copyOnSelection": true,
+    "editor.formatOnType": true,
+    "editor.renderControlCharacters": true,
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "boundary",
+    "files.associations": {
+      "math.h": "c",
+      "stdio.h": "c"
+    }
+}
